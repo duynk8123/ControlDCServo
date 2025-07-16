@@ -1,0 +1,19 @@
+# Ignore build output
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.lst
+*.hex
+
+# Ignore user-specific files
+*.log
+*.tmp
+*.backup
+
+# Ignore IDE metadata (tùy chọn, nếu không muốn giữ config IDE)
+# .cproject
+# .project
+# .settings/
